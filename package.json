@@ -1,0 +1,17 @@
+{
+  "name": "node-hello",
+  "version": "1.0.0",
+  "description": "Hello world app with docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start" : "node index.js" 
+ },
+  "keywords": [
+    "docker",
+    "hello",
+    "world"
+  ],
+  "author": "pjaromin",
+  "license": "ISC"
+}
